@@ -1,8 +1,8 @@
-#### SAYONARA MUSIC STREAM 🎼
+#### DEZKY MUSIC STREAM 🎼
 
 
 <p align="center">
-   <img src="https://telegra.ph/file/665d722d8eab95f49d86b.jpg"> 
+   <img src="https://telegra.ph/file/7f0e44ad2ef89b68cfc2c.jpg"> 
 </p>
 
 ### DEPLOY TO HEROKU TOD!
