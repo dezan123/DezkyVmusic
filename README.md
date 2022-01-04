@@ -40,10 +40,6 @@ Get pyrogram (p)  `SESSION` from here:
 - /skip - untuk memutar lagu berikutnya yang ada didalam antrian
 
 
-#### Special Credits
-- [Dezky](https://github.com/KykanoRobot/YukkiMusicBot)
-- [Kyy](https://github.com/UserLazy)
-- [alldev](https://t.me/sayonara_story/276) 
 
 ### Support & Updates 🎑
 <a href="https://t.me/leave_to_me"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Kayno_support"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
